@@ -6,9 +6,8 @@ Este é um teste para a área de desenvolvimento Front-end. A partir deste brief
 
 ## Requisitos
 
-Layout: https://xd.adobe.com/spec/57b7a740-f215-4af5-556a-35fead7fd72f-2186/grid
-
-API de imagens: https://picsum.photos/v2/list
+- Layout: https://xd.adobe.com/spec/57b7a740-f215-4af5-556a-35fead7fd72f-2186/grid
+- API de imagens: https://picsum.photos/v2/list
 
 #### História do cadastro
 Como empresa, desejo visualizar os dados pessoais de um candidato junto com seus projetos.
