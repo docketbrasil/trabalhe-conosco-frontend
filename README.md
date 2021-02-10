@@ -27,6 +27,6 @@ Como empresa, desejo visualizar os dados pessoais de um candidato junto com seus
 
 # Como participar
 - Crie um repositório público no github e coloque o código fonte do projeto.
-- Envie uma mensagem de email para o endereço leticia.chicareli@docket.com.br, com o seguinte conteúdo:
+- Envie uma mensagem de email para o endereço brenda.araujo@docket.com.br, com o seguinte conteúdo:
     - Link do repositório do github com o código fonte do projeto
     - Currículo em anexo ou link do perfil no linkedin.com
