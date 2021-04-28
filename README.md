@@ -18,6 +18,7 @@ Como empresa, desejo visualizar os dados pessoais de um candidato junto com seus
 - Exibir os dados do formulário na área indicada no XD
 - Criação do carrossel de imagens do projeto
 - Utilização da API externa de imagens para carregar os projetos
+- O teste precisa ser desenvolvido em HTML e JavaScript Vanila
 
 #### Será avaliado
 - Fidelidade de layout
