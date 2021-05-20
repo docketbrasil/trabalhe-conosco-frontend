@@ -1,4 +1,4 @@
-# Docket - Trabalhe conosco | Desenvolvedor Front-end
+# Docket - Trabalhe conosco | Dev. Front-end
 
 ## Proposta
 Este é um teste para a área de desenvolvimento Front-end. A partir deste briefing, a Docket propõe a você, criar um sistema de solicitação e documentos.
