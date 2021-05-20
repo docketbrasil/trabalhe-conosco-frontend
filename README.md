@@ -23,7 +23,7 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Visualizar todas as informações do meu pedido
 - Remover algum documento da lista de solicitações ao cartório
 
-#### Requisitos de desenvolvimento obrigatórios
+#### Requisitos obrigatórios de desenvolvimento
 - A listagem, o cadastro e a exclusão de documentos devem ser feito através de uma requisição à API. Para criar essa API, utilize o pacote NPM [Json Server](https://www.npmjs.com/package/json-server).
 - Utilização de algum pré-porcessador CSS (Exemplo: sass ou less)
 - Realizar validação de campos com preenchimento obrigatório
