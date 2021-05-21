@@ -45,7 +45,7 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Semântica
 
 É importante: 
-- Documentar como excutar o projeto, iremos seguir o passo a passo descrito 
+- Documentar como executar o projeto, iremos seguir o passo a passo descrito 
 
 # Como participar
 - Crie um repositório público no github e coloque o código fonte do projeto.
