@@ -36,6 +36,7 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Realizar preenchimento automático dos campos de endereço após o usuário digitar o CEP. Utilize a API do [Via CEP](https://viacep.com.br/)
 - Criar uma páginação de documentos, caso a listagem ultrapasse mais de 10 itens
 - Exibir uma mensagem indicando ao usuário que a aplicação esta processando a requisição, enquanto realiza a criação de um novo de documento. (Loading)
+-
 
 #### Será avaliado
 - Conclusão dos requisitos obrigatórios
