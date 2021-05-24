@@ -1,7 +1,7 @@
 # Docket - Trabalhe conosco | Dev. Front-end
 
 ## Proposta
-Este é um teste para a área de desenvolvimento Front-end. A partir deste briefing, a Docket propõe a você, criar um sistema de solicitação e documentos.
+Este é um teste para a área de desenvolvimento Front-end. A partir deste briefing, a Docket propõe a você, criar um sistema de solicitação de documentos.
 
 **Links úteis**
 - [Layout - Adobe XD](https://xd.adobe.com/view/de1c9231-1542-41b5-ad00-355ebf402162-8b4f/grid/)
@@ -54,4 +54,4 @@ Para o operador do sistema solicitar os documentos, ele deve:
     - Currículo em anexo ou link do perfil no linkedin.com
     
 #### Atenção:
-Não conseguiu finalizar o teste? Não tem problema. Mande mesmo assim que iremos avaliar o seu esforço.
+Não conseguiu finalizar o teste? Não tem problema. Mande mesmo assim que iremos avaliar o seu esforço. Boa sorte!
