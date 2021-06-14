@@ -32,6 +32,9 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Desenvolvimento de aviso de "Nenhum documento criado" quando não houver documentos na listagem
 - Atualizar contagem de documentos no título da listagem
 
+**ATENÇÃO**
+- O teste precisa ser desenvolvido em HTML e JavaScript Vanila
+
 #### Requisitos opcionais
 - Realizar preenchimento automático dos campos de endereço após o usuário digitar o CEP. Utilize a API do [Via CEP](https://viacep.com.br/)
 - Criar uma páginação de documentos caso a listagem ultrapasse mais de 10 itens
