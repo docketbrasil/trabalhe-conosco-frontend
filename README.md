@@ -31,6 +31,7 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Retornar feedback de cadastro e exclusão de documento
 - Adicionar Empty Space com a mensagem de "Nenhum documento criado" quando não houver documentos na listagem
 - Atualizar contagem de documentos no título da listagem, conforme os itens forem adicionados ou removidos
+- O teste precisa ser desenvolvido em HTML, CSS e JavaScript Vanila
 
 **ATENÇÃO**
 - O teste precisa ser desenvolvido em HTML e JavaScript Vanila
