@@ -49,8 +49,9 @@ Para o operador do sistema solicitar os documentos, ele deve:
 
 # Como participar
 - Crie um repositório público no github e coloque o código fonte do projeto.
-- Envie uma mensagem de email para o endereço brenda.araujo@docket.com.br, com o seguinte conteúdo:
-    - Link do repositório criado para o teste do github
+- Envie por email o seguinte conteúdo:
+    - Link do repositório do github com o código fonte do projeto
+    - Descrição do planejamento
     - Currículo em anexo ou link do perfil no linkedin.com
     
 #### Atenção:
