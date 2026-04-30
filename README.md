@@ -25,12 +25,18 @@ Para o operador do sistema solicitar os documentos, ele deve:
 
 #### Requisitos obrigatórios de desenvolvimento
 - A listagem, o cadastro e a exclusão de documentos devem ser feitas através de uma API REST. Para criar essa API, utilize o pacote NPM [Json Server](https://www.npmjs.com/package/json-server).
-- Utilizar algum pré-porcessador CSS (Exemplo: sass ou less)
 - Realizar validação de campos com preenchimento obrigatório
 - Adicionar máscaras de CNPJ, CPF e CEP
 - Retornar feedback de cadastro e exclusão de documento
 - Adicionar Empty Space com a mensagem de "Nenhum documento criado" quando não houver documentos na listagem
 - Atualizar contagem de documentos no título da listagem, conforme os itens forem adicionados ou removidos
+
+### Requisitos de Tecnologias
+Usar as Seguintes Tecnologias:
+- Nextjs/React
+- Tailwind
+- TypeScript
+- **Diferencial:** Utilizar ContextAPI
 
 #### Requisitos opcionais
 - Realizar preenchimento automático dos campos de endereço após o usuário digitar o CEP. Utilize a API do [Via CEP](https://viacep.com.br/)
@@ -52,7 +58,6 @@ Para o operador do sistema solicitar os documentos, ele deve:
 - Envie por email o seguinte conteúdo:
     - Link do repositório do github com o código fonte do projeto
     - Descrição do planejamento
-    - Currículo em anexo ou link do perfil no linkedin.com
     
 #### Atenção:
 Não conseguiu finalizar o teste? Não tem problema. Mande mesmo assim que iremos avaliar o seu esforço. Boa sorte!
